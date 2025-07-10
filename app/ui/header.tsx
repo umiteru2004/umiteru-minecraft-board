@@ -9,7 +9,7 @@ export default function Header() {
         <Link href="/" className="font-bold text-white lg:text-2xl">
           マイクラ募集掲示板
         </Link>
-        <Link href={"/account"}>
+        <Link href="/account">
           <FontAwesomeIcon icon={faCircleUser} size="2xl" inverse />
         </Link>
       </div>
