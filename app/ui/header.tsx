@@ -4,7 +4,7 @@ import { faCircleUser } from "@fortawesome/free-regular-svg-icons";
 
 export default function Header() {
   return (
-    <header className="bg-primary h-[70px]">
+    <header className="bg-primary h-18">
       <div className="mx-auto flex h-full w-9/10 items-center justify-between lg:w-5xl">
         <Link href="/" className="font-bold text-white lg:text-2xl">
           マイクラ募集掲示板
