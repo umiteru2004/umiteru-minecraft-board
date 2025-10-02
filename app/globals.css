@@ -10,6 +10,7 @@
   --color-secondary: #ff9e3d;
   --color-base-color: #ffffff;
   --color-link: #1a0dab;
+  --color-border: #d9d9d9;
 }
 
 @theme inline {
