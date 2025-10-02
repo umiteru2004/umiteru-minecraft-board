@@ -8,6 +8,7 @@ export default function Home() {
             投稿をフィルタ
           </button>
         </div>
+        <div className="p-4"></div>
       </div>
       <div className="bg-base-color border-border hidden w-2xs p-4 lg:block lg:border-x"></div>
     </div>
